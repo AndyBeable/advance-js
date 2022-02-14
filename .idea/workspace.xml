@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bcef8ab-f8c1-4d1a-ac2b-98fdd597e950" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpreadAndRestOp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpreadAndRestOp/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DefaultParameters/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DefaultParameters/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnhancedObjLiterals/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnhancedObjLiterals/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/destructuring/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/destructuring/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpreadAndRestOp/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/SpreadAndRestOp/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +46,30 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/EnhancedObjLiterals" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev-advance-js/SpreadAndRestOp/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev-advance-js/EnhancedObjLiterals/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev-advance-js/DefaultParameters/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdev-advance-js/destructuring/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -62,7 +82,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644232050591</updated>
-      <workItem from="1644232053924" duration="5476000" />
+      <workItem from="1644232053924" duration="9228000" />
+      <workItem from="1644856669101" duration="1621000" />
     </task>
     <servers />
   </component>
@@ -79,5 +100,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
